@@ -1,16 +1,24 @@
-### Hi there 👋
+# Desenvolvedor Full Stack
 
-<!--
-**andreypompeu/andreypompeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! Eu sou Andrey Pompeu 👋
 
-Here are some ideas to get you started:
+Sou formado em Engenharia Metalúrgica e de Materiais pela Universidade Federal do Ceará (UFC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minha Jornada
+
+- 🧑‍💻 Atualmente, estou trabalhando como Desenvolvedor Full Stack.
+- 📚 Estou estudando HTML, CSS, JavaScript e React.
+- 🎓 Sou estudante Full Stack na Digital College.
+
+# 📫 Entre em contato
+
+[![Email](https://img.shields.io/badge/Email-andreypompeu@outlook.com-blue)](mailto:andreypompeu@outlook.com?subject=Olá%20Andrey,%0A%0AEncontrei%20você%20no%20GitHub%20e%20queria%20entrar%20em%20contato.)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreypompeu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andreypompeu)
+
+# 💻 Tecnologias
+
+![HTML](https://img.shields.io/badge/-HTML-yellow)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-blue)
